@@ -86,4 +86,8 @@ public class Humain {
 		return this.argent;
 	}
 
+	public String getBoisson() {
+		return boisson;
+	}
+
 }
